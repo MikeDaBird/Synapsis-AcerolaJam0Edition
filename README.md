@@ -8,4 +8,4 @@ The game features 5 levels in a prototype stage and also has a **Speedrun Timer!
 
 *Also, don't be surprised if after the jam I improve the character I made for this jam to make it available for cheap / free as a VRChat avatar base for the lols XvX*
 
-## As part of the jam, this version of the game is posted publicly on GitHub (even if optional now) with all source files for the duration of the jam. I retain the right to all assets within this repository except for the Mixamo animations used and the font of the game.
+## As part of the jam, this version of the game is posted publicly on GitHub (even if optional now) with all source files for the duration of the jam. I retain the rights to all assets within this repository except for the Mixamo animations used and the font of the game.
